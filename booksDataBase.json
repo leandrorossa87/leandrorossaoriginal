@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "camisa desprendida",
+        "author": "romina",
+        "genre": "drama",
+        "year": "2025",
+        "coast": "600",
+        "price": "750"
+    },
+    {
+        "id": 2,
+        "title": "el autito rojo",
+        "author": "gena",
+        "genre": "drama",
+        "year": "2022",
+        "coast": "600",
+        "price": "750"
+    },
+    {
+        "id": 3,
+        "title": "hagamos asado tomemo fernet2",
+        "author": "lora romina",
+        "genre": "2021",
+        "year": "650",
+        "coast": "800"
+    },
+    {
+        "id": 4,
+        "title": "te encontre archivo",
+        "author": "Rossa Leandro",
+        "genre": "drama",
+        "year": "2022",
+        "coast": "1000",
+        "price": "1500"
+    }
+]
